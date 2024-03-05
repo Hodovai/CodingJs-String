@@ -1,0 +1,9 @@
+// Examples
+
+// middleTwo('string') →
+// middleTwo('code') →
+// middleTwo('Practice') →
+
+function middleTwo(str){
+
+}
